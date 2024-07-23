@@ -1,24 +1,49 @@
-    # Diplomado: Competencias Profesionales
+# Diplomado: Competencias Profesionales
 
-    Este repositorio contiene el código fuente para el sitio web del **Diplomado: Competencias Profesionales** desarrollado por 
-    **Xavier Rojas V- 28.323.153 Ingeniero en Computación**
-    **Gianfranco Carangelo V- 30.600.810 Ingeniero Industrial**
+Este repositorio contiene el código fuente para el sitio web del **Diplomado: Competencias Profesionales** desarrollado por:
+- **Xavier Rojas V- 28.323.153 Ingeniero en Computación**
+- **Gianfranco Carangelo V- 30.600.810 Ingeniero Industrial**
 
-    ## Descripción
+## Descripción
 
-    El Diplomado se orienta a desarrollar las competencias profesionales tecnológicas que un ingeniero requiere para ser competitivo en el mercado actual. Se abordarán un conjunto de habilidades, conocimientos y valores esenciales para el desempeño profesional del ingeniero a nivel mundial.
+El Diplomado se orienta a desarrollar las competencias profesionales tecnológicas que un ingeniero requiere para ser competitivo en el mercado actual. Se abordarán un conjunto de habilidades, conocimientos y valores esenciales para el desempeño profesional del ingeniero a nivel mundial.
 
-    ## Módulos del Diplomado
+## Módulos del Diplomado
 
-    - Metodologías para el Desarrollo de Software.
-    - Competencias Digitales.
-    - Introducción a las Tendencias Tecnológicas Modernas.
-    - Herramientas de Gestión, Desarrollo y Delivery de Proyectos.
+- Metodologías para el Desarrollo de Software.
+- Competencias Digitales.
+- Introducción a las Tendencias Tecnológicas Modernas.
+- Herramientas de Gestión, Desarrollo y Delivery de Proyectos.
 
-    ## Perfil Profesional del Facilitador
+## Cómo descargar y usar el proyecto
 
-    El Dr. Gustavo Martínez es un experto con 20 años de experiencia en el área de Arquitectura Cloud, Quality Assurance, Testing y metodologías ágiles. Ha liderado proyectos de implantación de oficinas de calidad, gestión de equipos de testing y evangelización ágil. Su amplia experiencia incluye los modelos CMMI, TMMI y la metodología Scrum. Además, ha trabajado en el diseño y ejecución de pruebas automatizadas y manuales, análisis estático, pruebas de rendimiento y seguridad en entornos web y móvil.
+1. Ve al repositorio en GitHub: Nombre del Repositorio.
+2. Encima de la lista de archivos, haz clic en **Código**.
+3. Luego, haz clic en **Descargar el archivo ZIP**.
+4. Descomprime el archivo ZIP en tu equipo local.
+5. Abre el archivo HTML en tu navegador para ver el proyecto.
 
-    ---
+# Perfiles de los Estudiantes que realizaron el repositorio
 
-    © 2024 Universidad Valle del Momboy
+- **Xavier Rojas V** - 28.323.153 (Ingeniero en Computación)
+  - Experiencia Profesional:
+    - Desarrollo de aplicaciones web.
+    - Implementación de soluciones tecnológicas para empresas.
+  - Habilidades Técnicas:
+    - Bilingue: Ingles, Español(nativo)
+    - Lenguajes de programación: Python, JavaScript.
+    - Frameworks: React, Vite,Astro.
+    - Bases de datos: MySQL, MongoDB.
+    - Control de versiones: Git.
+
+- **Gianfranco Carangelo V** - 30.600.810 (Ingeniero Industrial)
+  - Experiencia Profesional:
+    - Optimización de procesos industriales.
+    - Gestión de proyectos de mejora continua.
+  - Habilidades Técnicas:
+    - Análisis de datos y estadísticas.
+    - Diseño de procesos y logística.
+
+---
+
+© 2024 Universidad Valle del Momboy
